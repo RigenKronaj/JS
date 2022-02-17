@@ -1,0 +1,22 @@
+h2 {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    font-size: 60px;
+}
+
+#counter {
+    color: blue;
+    text-align: center;
+    font-size: 70px;
+}
+
+#buttons {
+    text-align: center;
+}
+
+#increase, #decrease, #reset {
+    color: red;
+    background-color: black;
+    font-size: 25px;
+}
